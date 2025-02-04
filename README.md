@@ -11,3 +11,6 @@ And TTKBootstrap for the ui elements.
 These tools automate some of the tasks I have to conduct when doing my job with DLBEC.
 Making it quicker and easier to do.
 
+## Disclaimer ##
+I did make use of AI when developing these applications, meaning that some of the code is not original.
+While this may be true, I fully understand this code and how it achieves what it does.
